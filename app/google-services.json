@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988481879125",
+    "firebase_url": "https://mbps-news-a4ee4.firebaseio.com",
+    "project_id": "mbps-news-a4ee4",
+    "storage_bucket": "mbps-news-a4ee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988481879125:android:49344e668db5093a4be8dc",
+        "android_client_info": {
+          "package_name": "com.example.mbpsnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988481879125-o9luvleeolmgtcv5tfvokcin9ecuau1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mbpsnews",
+            "certificate_hash": "3d368ee41f9f995fecf1d9bb1502cae19bf1824f"
+          }
+        },
+        {
+          "client_id": "988481879125-27vb3n53ger4rlkfrpeinvg94r28522r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWW2SFaHDfzkVP5UFb00xfP36gbd7cPwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988481879125-27vb3n53ger4rlkfrpeinvg94r28522r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
